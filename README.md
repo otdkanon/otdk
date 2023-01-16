@@ -19,4 +19,4 @@ them: tematikusszerep-kiosztással kapcsolatos klaszterezéshez tartozó fájlok
 
 ___Sel.tsv: a klaszterező bemenete, az egyes jegyekhez tartozó eloszlások igénként
 
-___SelKat_.tsv: a klaszterező kimenete, az egyes igék, a jellemző eloszlások és a klaszterük száma
+___SelKatk.tsv: a klaszterező kimenete, az egyes igék, a jellemző eloszlások és a klaszterük száma
